@@ -1,0 +1,8 @@
+[user]
+	name = kensuke-mi
+	email = kensuke-mi@is.naist.jp
+
+[color]
+	ui = true
+[core]
+	  excludesfile = ~/.gitignore

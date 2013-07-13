@@ -6,3 +6,6 @@ export PYTHONPATH=/Library/Python/2.7/site-packages/:$PYTHONPATH
 alias sgnuplot="/Applications/Gnuplot.app/Contents/Resources/bin/gnuplot"
 alias octave="/Applications/Octave.app/Contents/Resources/bin/octave"
 export GNUTERM=x11
+
+#For auto-completion of git system
+source ~/.git-completion.bash
